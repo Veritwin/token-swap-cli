@@ -1,0 +1,79 @@
+# Veritwin Token Swap CLI License
+
+Copyright (c) 2026 Veritwin Inc. All rights reserved.
+
+## Acceptance
+
+In order to get any license under these terms, you must agree to them as both strict obligations and conditions to all your licenses.
+
+## Copyright License
+
+The licensor grants you a copyright license for the software to do everything you might do with the software that would otherwise infringe the licensor's copyright in it for any permitted purpose, other than distributing the software or making changes or new works based on the software.
+
+## Patent License
+
+The licensor grants you a patent license for the software that covers patent claims the licensor can license, or becomes able to license, that you would infringe by using the software.
+
+## Permitted Purposes
+
+Any purpose is a permitted purpose, commercial use included, except as the Sanctions section limits it.
+
+## Where Copies Come From
+
+You may get the software only from the licensor's own channels: the releases at https://github.com/Veritwin/token-swap-cli, the npm package @veritwin/cli, or another channel the licensor names in writing. Each machine that runs the software must get its copy from one of those channels. You may not give copies to anyone else, others in your company included, and you may not keep copies for others to use, such as in shared images, caches or mirrors.
+
+## The Service
+
+The software is a client of the licensor's token swap service. These terms give you no right to use that service. Using it needs an api key from the licensor, under the terms the licensor sets for the service.
+
+## Your Keys and Transactions
+
+The software holds no keys. You sign every transaction yourself, in your own wallet or with your own program, and you are responsible for every transaction you sign. Transactions on a blockchain can't be undone.
+
+## Pre-release Versions
+
+Versions whose number has a suffix, such as -alpha or -dev, are test versions. They work with test networks, and they may change or stop working at any time, without notice.
+
+## Update Checks
+
+When it runs at a terminal, the software asks, at most once a day, for the newest version of its release type: the npm registry, or GitHub for -dev versions. It does this to tell you when an update is available. Setting the environment variable VERITWIN_NO_UPDATE_CHECK=1 turns this off.
+
+## Third-Party Components
+
+The software includes third-party components under their own licenses, listed in the NOTICE file and the licenses directory that come with it. These terms don't cover those components, and nothing in them limits the rights those licenses give you.
+
+## Sanctions
+
+You may not use the software in, or send it to, a country or region under comprehensive United States sanctions or embargo, and you may not use it if United States sanctions or export laws prohibit you from receiving it.
+
+## Fair Use
+
+You may have "fair use" rights for the software under the law. These terms do not limit them.
+
+## No Other Rights
+
+These terms do not allow you to sublicense or transfer any of your licenses to anyone else, or prevent the licensor from granting licenses to anyone else. These terms do not imply any other licenses.
+
+## Patent Defense
+
+If you make any written claim that the software infringes or contributes to infringement of any patent, your patent license for the software granted under these terms ends immediately. If your company makes such a claim, your patent license ends immediately for work on behalf of your company.
+
+## Violations
+
+The first time you are notified in writing that you have violated any of these terms, or done anything with the software not covered by your licenses, your licenses can nonetheless continue if you come into full compliance with these terms, and take practical steps to correct past violations, within 32 days of receiving notice. Otherwise, all your licenses end immediately.
+
+## No Liability
+
+***As far as the law allows, the software comes as is, without any warranty or condition, and the licensor will not be liable to you for any damages arising out of these terms or the use or nature of the software, under any kind of legal claim.***
+
+## Definitions
+
+The **licensor** is Veritwin Inc., and the **software** is the Veritwin Token Swap CLI in the form the licensor publishes it: its standalone builds and its npm package, not its source code.
+
+**You** refers to the individual or entity agreeing to these terms.
+
+**Your company** is any legal entity, sole proprietorship, or other kind of organization that you work for, plus all organizations that have control over, are under the control of, or are under common control with that organization. **Control** means ownership of substantially all the assets of an entity, or the power to direct its management and policies by vote, contract, or otherwise. Control can be direct or indirect.
+
+**Your licenses** are all the licenses granted to you for the software under these terms.
+
+**Use** means anything you do with the software requiring one of your licenses.
